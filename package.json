@@ -1,0 +1,11 @@
+{
+  "name": "fass",
+  "version": "0.1.0",
+  "description": "fass application",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AmosRyan",
+  "license": "ISC"
+}
